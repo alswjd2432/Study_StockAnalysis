@@ -13,7 +13,8 @@
 <p align="center">
 <img src="https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/a8eb5693-d1aa-4cf0-a0e6-f6345219b171" width="50%" height="50%"> <img src="https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/c3a6db6f-2122-4fb2-ba9b-69fb2e557eda" width="50%" height="50%">
 </p>
-![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/a8eb5693-d1aa-4cf0-a0e6-f6345219b171) ![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/c3a6db6f-2122-4fb2-ba9b-69fb2e557eda)
+
+|![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/a8eb5693-d1aa-4cf0-a0e6-f6345219b171) |![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/c3a6db6f-2122-4fb2-ba9b-69fb2e557eda)|
 - 예시 2 : 캔들 차트 그리기
 ![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/61c01877-fdb9-4cf5-b402-d4684777e289)
 ![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/69ce195c-fd30-425f-90a3-762198722eef)

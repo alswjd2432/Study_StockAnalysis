@@ -15,6 +15,7 @@
 |:---:|:---:|
 | 네이버 금융 웹 사이트에서 확인한 셀트리온 주가 정보 | 주가 정보를 스크래핑해서 데이터 프레임으로 생성 |
 - 예시 2 : 캔들 차트 그리기
+  
 ![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/61c01877-fdb9-4cf5-b402-d4684777e289)
 ![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/69ce195c-fd30-425f-90a3-762198722eef)
 

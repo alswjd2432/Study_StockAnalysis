@@ -10,7 +10,11 @@
 
 ## 2. 웹 스크래핑으로 데이터 분석
 - 예시 1 : 네이버 금융 웹 사이트 스크래핑
-<figure class="half">  <a href="link"><img src=https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/a8eb5693-d1aa-4cf0-a0e6-f6345219b171></a>  <a href="link"><img src=https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/c3a6db6f-2122-4fb2-ba9b-69fb2e557eda></a>  <figcaption>2개이미지.</figcaption></figure>
+<figure class="half">
+  <a href="link"><img src=https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/a8eb5693-d1aa-4cf0-a0e6-f6345219b171></a>
+  <a href="link"><img src=https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/c3a6db6f-2122-4fb2-ba9b-69fb2e557eda></a>
+  <figcaption>2개이미지.</figcaption>
+</figure>
 - 예시 2 : 캔들 차트 그리기
 ![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/61c01877-fdb9-4cf5-b402-d4684777e289)
 ![image](https://github.com/alswjd2432/Study_StockAnalysis/assets/95081711/69ce195c-fd30-425f-90a3-762198722eef)
